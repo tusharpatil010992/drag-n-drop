@@ -6,9 +6,9 @@
                     column1: ["item1","item2"],
                     column2: ["item3","item4"],
                     column3: ["item5","item6"],
-                    // column4: ["item7","item8"],
-                    // column5: ["item9","item10"],
-                    // column6: ["item11","item12"],
+                    column4: ["item7","item8"],
+                    column5: ["item9","item10"],
+                    column6: ["item11","item12"],
                 });
 
                 const onDrop= (event, toColumn) => {
